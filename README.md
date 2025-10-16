@@ -12,6 +12,20 @@ By combining **robust preprocessing**, **model optimization**, and **performance
 
 ---
 
+## ⚙️ Environment Setup
+This notebook is designed to be executed in Google Colab.
+Before running, ensure the following:
+
+- Mount your Google Drive.
+
+- Include the utilities folder containing p2_shallow_learning_utilities.py.
+
+- Include the models folder containing p2_shallow_learning_models.py.
+
+### 💡 Note: Avoid running this in remote systems; Colab provides the best compatibility for file paths and dependencies.
+
+---
+
 ## 🎯 Objectives
 - Clean and preprocess raw user and transaction datasets.  
 - Perform **feature engineering** to extract purchase-related indicators.  

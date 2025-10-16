@@ -1,12 +1,12 @@
 # 🛍️ Customer Purchase Prediction using Machine Learning
 
 This project builds an end-to-end **Machine Learning pipeline** to predict the likelihood of a customer making a purchase based on their browsing, demographic, and interaction data.  
-It demonstrates the complete ML lifecycle — from **data cleaning** and **feature engineering** to **hyperparameter tuning** and **model evaluation** — tailored for real-world e-commerce analytics.
+It demonstrates the complete ML lifecycle from **data cleaning** and **feature engineering** to **hyperparameter tuning** and **model evaluation**tailored for real-world e-commerce analytics.
 
 ---
 
 ## 📋 Overview
-E-commerce companies thrive on understanding **customer intent** — knowing who is likely to buy, when, and what.  
+E-commerce companies thrive on understanding **customer intent** knowing who is likely to buy, when, and what.  
 This project applies **supervised learning** techniques to identify key behavioral signals that influence customer purchases.  
 By combining **robust preprocessing**, **model optimization**, and **performance evaluation**, it delivers an interpretable, scalable pipeline that can be integrated into retail analytics workflows.
 
@@ -85,7 +85,7 @@ code.ipynb
 
 ## 🚀 Future Enhancements
 - Integration with live user data streams for **real-time predictions**.  
-- Deployment via **Flask/FastAPI** for production inference - in progress.  
+- Deployment via **Flask/FastAPI** for production inference in progress.  
 - Incorporation of **deep learning architectures** and **feature selection** techniques for further improvement.
 
 

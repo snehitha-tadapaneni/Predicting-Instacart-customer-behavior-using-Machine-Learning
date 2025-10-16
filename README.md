@@ -26,6 +26,17 @@ Before running, ensure the following:
 
 ---
 
+## 📂 Dataset Access
+
+The dataset used in this project is too large to be hosted directly on GitHub.  
+You can access it from the following link:
+
+🔗 [Download Dataset from Google Drive]([https://drive.google.com/your_shared_link_here](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis))
+
+Once downloaded, upload the dataset to your Google Drive and place it under: Data Folder
+
+---
+
 ## 🎯 Objectives
 - Clean and preprocess raw user and transaction datasets.  
 - Perform **feature engineering** to extract purchase-related indicators.  

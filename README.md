@@ -24,7 +24,7 @@ By combining **robust preprocessing**, **model optimization**, and **performance
 ## 🧠 Machine Learning Models
 - Logistic Regression  
 - Random Forest Classifier  
-- Gradient Boosting (XGBoost / LightGBM)  
+- Gradient Boosting  
 - Support Vector Machines  
 - Neural Networks (TensorFlow / Keras)
 
@@ -33,7 +33,7 @@ By combining **robust preprocessing**, **model optimization**, and **performance
 ## ⚙️ Technologies Used
 | Category | Tools |
 |-----------|-------|
-| Programming | Python, Jupyter Notebook |
+| Programming | Python, Google Colab |
 | Data Handling | Pandas, NumPy |
 | Modeling | Scikit-Learn, TensorFlow |
 | Visualization | Matplotlib, Seaborn |

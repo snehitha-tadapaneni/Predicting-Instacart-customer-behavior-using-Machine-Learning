@@ -31,7 +31,7 @@ Before running, ensure the following:
 The dataset used in this project is too large to be hosted directly on GitHub.  
 You can access it from the following link:
 
-🔗 [Download Dataset from Google Drive]([https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis])
+🔗 [Download Dataset from Google Drive](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
 
 Once downloaded, upload the dataset to your Google Drive and place it under: Data Folder
 
